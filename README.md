@@ -5,6 +5,9 @@
 ## Description
 This is a node project built to generate a readme file for the user using inputs to determine what information is displayed on the readme file.
 
+## Preview of The Program
+https://youtu.be/bZG5NXxf_6E
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
